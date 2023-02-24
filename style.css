@@ -1,0 +1,62 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+   background-color: rgb(207, 192, 221);
+   margin: 80%;
+}
+
+.container-general{
+    margin: 20px;
+   
+}
+
+#primero{
+    margin-top: 20px;
+    margin-bottom: 30px;
+    border: hidden  3px;
+    border-radius: 12px;
+    display: flex;
+    justify-content: center;
+    font-size: xx-large;
+    color:  rgb(87, 58, 130);
+   
+    
+}
+
+
+button{
+    margin-top: 20px;
+}
+
+.nombre{
+    background-color: rgb(105, 74, 152);
+    
+    padding: 10px;
+    border-radius: 10px;
+}
+.table{
+    border:none;
+}
+
+.navbar{
+    display:flex;
+}
+
+#cristian{
+    margin-top:400px;
+    margin-left: 50px;
+    border-radius: 10px;
+}
+#ilva{
+    margin-left: 50px;
+}
+#borde{
+    border: none 4px ;
+    border-radius: 10px;
+    background-color: white;
+}
